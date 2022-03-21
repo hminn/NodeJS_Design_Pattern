@@ -56,4 +56,4 @@ Node.js 디자인 패턴 바이블 도서 학습 내용을 기록하는 저장�
 ---
 ## 학습 내용 정리 Notion Page
 ### 0. [Main page](https://www.notion.so/Node-js-Node-js-4774eb6c7866432288d919edd2587eac)
-### 1. [NodeJS 플랫폼](1장_NodeJS_플랫폼\README.md)
+### 1. [NodeJS 플랫폼](https://observant-colt-711.notion.site/1-Node-js-b7faf992ea4044659a88a2eb09de8dd1)
