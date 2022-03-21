@@ -52,3 +52,8 @@ Node.js 디자인 패턴 바이블 도서 학습 내용을 기록하는 저장�
 - **기타 자료**
     - [컬러 이미지 다운로드 링크](https://static.packt-cdn.com/downloads/9781839214110_ColorImages.pdf)
     - [소스코드 번들 레포](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition)
+
+---
+## 학습 내용 정리 Notion Page
+### 0. [Main page](https://www.notion.so/Node-js-Node-js-4774eb6c7866432288d919edd2587eac)
+### 1. [NodeJS 플랫폼](1장_NodeJS_플랫폼\README.md)
